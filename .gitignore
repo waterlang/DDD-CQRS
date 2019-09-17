@@ -1,0 +1,17 @@
+*/target/
+**/target/
+*/.classpath
+**/.classpath
+*/**/.gitignore
+*/.project
+**/*.iml
+**/.idea
+.project
+.settings/
+**/bin/
+
+node_modules
+build
+npm-debug.log
+*.log
+*.iml
